@@ -5,11 +5,11 @@ Herramienta de IA usada: (escribe aqui cual usaste, por ejemplo: ChatGPT o Gemin
 
 ## Ejercicio 2: Zero-shot, one-shot y few-shot
 
-| Tipo      | Aciertos (de 5) | Formato de la respuesta        | Todas con el mismo formato (Si/No) |
-| --------- | --------------- | ------------------------------ | ---------------------------------- | --- |
+| Tipo      | Aciertos (de 5) | Formato de la respuesta        | Todas con el mismo formato (Sí/No) |
+| --------- | --------------- | ------------------------------ | ---------------------------------- |
 | Zero-shot | 5               | Texto libre con explicaciones  | No                                 |
 | One-shot  | 5               | Más estructurado               | No                                 |
-| Few-shot  | 5               | Estricto ("texto" -> etiqueta) | Sí                                 |     |
+| Few-shot  | 5               | Estricto ("texto" -> etiqueta) | Sí                                 |
 
 ## Ejercicio 3: Chain of Thought
 
